@@ -4,6 +4,7 @@
 		"liferay-theme-tasks": "8.0.9",
 		"liferay-theme-deps-7.1": "8.0.9"
 	},
+	"homepage": "https://github.com/wincent/automatic-octo-barnacle-theme",
 	"keywords": [
 		"liferay-theme"
 	],
@@ -15,5 +16,6 @@
 	},
 	"main": "package.json",
 	"name": "automatic-octo-barnacle-theme",
-	"version": "1.0.0"
+	"repository": "https://github.com/wincent/automatic-octo-barnacle-theme.git",
+	"version": "1.0.1"
 }
